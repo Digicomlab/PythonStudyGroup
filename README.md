@@ -2,6 +2,6 @@
 
 Maintainer: Justin Chun-ting Ho
 
-Last update: 05-04-2024
+Last update: 13-04-2024
 
 EtherPad: https://pad.carpentries.org/pythonsg
