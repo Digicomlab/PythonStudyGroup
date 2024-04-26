@@ -5,6 +5,6 @@ Materials to work with the [Python for Everybody
 
 Maintainer: Justin Chun-ting Ho
 
-Last update: 22-04-2024
+Last update: 26-04-2024
 
 EtherPad: https://pad.carpentries.org/pythonsg
